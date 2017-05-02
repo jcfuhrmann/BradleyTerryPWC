@@ -1,0 +1,384 @@
+Albany,Great Danes,ALBY,America East
+Binghamton,Bearcats,BING,America East
+Hartford,Hawks,HART,America East
+Maine,Black Bears,ME,America East
+New Hampshire,Wildcats,UNH,America East
+Stony Brook,Seawolves,STON,America East
+Mass.-Lowell,River Hawks,UML,America East
+UMBC,Retrievers,UMBC,America East
+Vermont,Catamounts,UVM,America East
+
+Cincinnati,Bearcats,CIN,American
+Connecticut,Huskies,CONN,American
+East Carolina,Pirates,ECU,American
+Houston,Cougars,HOU,American
+Memphis,Tigers,MEM,American
+SMU,Mustangs,SMU,American
+South Florida,Bulls,USF,American
+Temple,Owls,TEM,American
+Tulane,Green Wave,TULN,American
+Tulsa,Golden Hurricane,TLSA,American
+UCF,Knights,UCF,American
+
+Davidson,Wildcats,DAV,Atlantic 10
+Dayton,Flyers,DAY,Atlantic 10
+Duquesne,Dukes,DUQ,Atlantic 10
+Fordham,Rams,FOR,Atlantic 10
+George Mason,Patriots,GMU,Atlantic 10
+Geo. Washington,Colonials,GW,Atlantic 10
+La Salle,Explorers,LAS,Atlantic 10
+Massachusetts,Minutemen,MASS,Atlantic 10
+Rhode Island,Rams,URI,Atlantic 10
+Richmond,Spiders,RICH,Atlantic 10
+Saint Joseph's,Hawks,JOES,Atlantic 10
+Saint Louis,Billikens,SLU,Atlantic 10
+St. Bonaventure,Bonnies,SBON,Atlantic 10
+VCU,Rams,VCU,Atlantic 10
+
+Boston College,Eagles,BC,ACC
+Clemson,Tigers,CLEM,ACC
+Duke,Blue Devils,DUKE,ACC
+Florida State,Seminoles,FSU,ACC
+Georgia Tech,Yellow Jackets,GT,ACC
+Louisville,Cardinals,LOU,ACC
+Miami (Fla.),Hurricanes,MIA,ACC
+North Carolina,Tar Heels,UNC,ACC
+NC State,Wolfpack,NCST,ACC
+Notre Dame,Fighting Irish,ND,ACC
+Pittsburgh,Panthers,PITT,ACC
+Syracuse,Orange,SYR,ACC
+Virginia,Cavaliers,UVA,ACC
+Virginia Tech,Hokies,VT,ACC
+Wake Forest,Demon Deacons,WAKE,ACC
+
+FGCU,Eagles,FGC,Atlantic Sun
+Jacksonville,Dolphins,JAC,Atlantic Sun
+Kennesaw State,Owls,KENN,Atlantic Sun
+Lipscomb,Bisons,LIP,Atlantic Sun
+NJIT,Highlanders,NJIT,Atlantic Sun
+North Florida,Ospreys,UNF,Atlantic Sun
+S.C. Upstate,Spartans,SCUS,Atlantic Sun
+Stetson,Hatters,STET,Atlantic Sun
+
+Baylor,Bears,BAY,Big 12
+Iowa State,Cyclones,ISU,Big 12
+Kansas,Jayhawks,KU,Big 12
+Kansas State,Wildcats,KSU,Big 12
+Oklahoma,Sooners,OKLA,Big 12
+Oklahoma State,Cowboys,OKST,Big 12
+TCU,Horned Frogs,TCU,Big 12
+Texas,Longhorns,TEX,Big 12
+Texas Tech,Red Raiders,TTU,Big 12
+West Virginia,Mountaineers,WVU,Big 12
+
+Butler,Bulldogs,BUT,Big East
+Creighton,Bluejays,CREI,Big East
+DePaul,Blue Demons,DEP,Big East
+Georgetown,Hoyas,GTWN,Big East
+Marquette,Golden Eagles,MARQ,Big East
+Providence,Friars,PROV,Big East
+Seton Hall,Pirates,HALL,Big East
+St. John's,Red Storm,SJU,Big East
+Villanova,Wildcats,VILL,Big East
+Xavier,Musketeers,XAV,Big East
+
+Eastern Wash.,Eagles,EWU,Big Sky
+Idaho,Vandals,IDHO,Big Sky
+Idaho State,Bengals,IDST,Big Sky
+Montana,Grizzlies,MONT,Big Sky
+Montana State,Bobcats,MTST,Big Sky
+North Dakota,Fighting Hawks,UND,Big Sky
+Northern Ariz.,Lumberjacks,NAU,Big Sky
+Northern Colo.,Bears,UNCO,Big Sky
+Portland State,Vikings,PRST,Big Sky
+Sacramento St.,Hornets,CSUS,Big Sky
+Southern Utah,Thunderbirds,SUU,Big Sky
+Weber State,Wildcats,WEB,Big Sky
+
+Campbell,Fighting Camels,CAMP,Big South
+Charleston So.,Buccaneers,CHSO,Big South
+Gardner-Webb,Bulldogs,WEBB,Big South
+High Point,Panthers,HP,Big South
+Liberty,Flames,LIB,Big South
+Longwood,Lancers,LONG,Big South
+Presbyterian,Blue Hose,PRE,Big South
+Radford,Highlanders,RAD,Big South
+UNC Asheville,Bulldogs,UNCA,Big South
+Winthrop,Eagles,WIN,Big South
+
+Illinois,Fighting Illini,ILL,Big Ten
+Indiana,Hoosiers,IND,Big Ten
+Iowa,Hawkeyes,IOWA,Big Ten
+Maryland,Terrapins,MD,Big Ten
+Michigan,Wolverines,MICH,Big Ten
+Michigan State,Spartans,MSU,Big Ten
+Minnesota,Golden Gophers,MINN,Big Ten
+Nebraska,Cornhuskers,NEB,Big Ten
+Northwestern,Wildcats,NW,Big Ten
+Ohio State,Buckeyes,OSU,Big Ten
+Penn State,Nittany Lions,PSU,Big Ten
+Purdue,Boilermakers,PUR,Big Ten
+Rutgers,Scarlet Knights,RUTG,Big Ten
+Wisconsin,Badgers,WIS,Big Ten
+
+Cal Poly,Mustangs,CP,Big West
+CSU Fullerton,Titans,CSF,Big West
+CSUN,Matadors,CSN,Big West
+Hawaii,Warriors,HAW,Big West
+Long Beach St.,49ers,LBSU,Big West
+UC Davis,Aggies,UCD,Big West
+UC Irvine,Anteaters,UCI,Big West
+UC Riverside,Highlanders,UCRV,Big West
+UC Santa Barb.,Gauchos,UCSB,Big West
+
+Charleston,Cougars,COFC,Colonial
+Delaware,Blue Hens,DEL,Colonial
+Drexel,Dragons,DREX,Colonial
+Elon,Phoenix,ELON,Colonial
+Hofstra,Pride,HOF,Colonial
+James Madison,Dukes,JMU,Colonial
+Northeastern,Huskies,NE,Colonial
+Towson,Tigers,TOWS,Colonial
+UNCW,Seahawks,UNCW,Colonial
+William & Mary,Tribe,W&M,Colonial
+
+Charlotte,49ers,CHAR,Conference USA
+Florida Atlantic,Owls,FAU,Conference USA
+FIU,Golden Panthers,FIU,Conference USA
+Louisiana Tech,Bulldogs,LT,Conference USA
+Marshall,Thundering Herd,MRSH,Conference USA
+Middle Tenn.,Blue Raiders,MTU,Conference USA
+North Texas,Mean Green,UNT,Conference USA
+Old Dominion,Monarchs,ODU,Conference USA
+Rice,Owls,RICE,Conference USA
+Southern Miss,Golden Eagles,USM,Conference USA
+UTSA,Roadrunners,UTSA,Conference USA
+UAB,Blazers,UAB,Conference USA
+UTEP,Miners,UTEP,Conference USA
+Western Ky.,Hilltoppers,WKU,Conference USA
+
+Cleveland State,Vikings,CLEV,Horizon League
+Detroit,Titans,DET,Horizon League
+Green Bay,Phoenix,GB,Horizon League
+Milwaukee,Panthers,MILW,Horizon League
+Northern Kentucky,Norse,NKY,Horizon League
+Oakland,Golden Grizzlies,OAK,Horizon League
+Illinois-Chicago,Flames,UIC,Horizon League
+Valparaiso,Crusaders,VALP,Horizon League
+Wright State,Raiders,WRST,Horizon League
+Youngstown St.,Penguins,YSU,Horizon League
+
+Brown,Bears,BRWN,Ivy League
+Columbia,Lions,CLMB,Ivy League
+Cornell,Big Red,COR,Ivy League
+Dartmouth,Big Green,DART,Ivy League
+Harvard,Crimson,HARV,Ivy League
+Penn,Quakers,PENN,Ivy League
+Princeton,Tigers,PRIN,Ivy League
+Yale,Bulldogs,YALE,Ivy League
+
+Canisius,Golden Griffins,CAN,MAAC
+Fairfield,Stags,FAIR,MAAC
+Iona,Gaels,IONA,MAAC
+Manhattan,Jaspers,MAN,MAAC
+Marist,Red Foxes,MRST,MAAC
+Monmouth,Hawks,MONM,MAAC
+Niagara,Purple Eagles,NIAG,MAAC
+Quinnipiac,Bobcats,QUIN,MAAC
+Rider,Broncs,RID,MAAC
+St. Peter's,Peacocks,SPC,MAAC
+Siena,Saints,SIE,MAAC
+
+Akron,Zips,AKR,Mid-American
+Ball State,Cardinals,BALL,Mid-American
+Bowling Green,Falcons,BGSU,Mid-American
+Buffalo,Bulls,BUFF,Mid-American
+Cent. Michigan,Chippewas,CMU,Mid-American
+Eastern Mich.,Eagles,EMU,Mid-American
+Kent State,Golden Flashes,KENT,Mid-American
+Miami (Ohio),RedHawks,M-OH,Mid-American
+Northern Ill.,Huskies,NIU,Mid-American
+Ohio,Bobcats,OHIO,Mid-American
+Toledo,Rockets,TOL,Mid-American
+Western Mich.,Broncos,WMU,Mid-American
+
+Bethune-Cookman,Wildcats,COOK,MEAC
+Coppin State,Eagles,COPP,MEAC
+Delaware State,Eagles,DSU,MEAC
+Florida A&M,Rattlers,FAMU,MEAC
+Hampton,Pirates,HAMP,MEAC
+Howard,Bison,HOW,MEAC
+Md.-East. Shore,Hawks,UMES,MEAC
+Morgan State,Bears,MORG,MEAC
+Norfolk State,Spartans,NORF,MEAC
+N.C. A&T,Aggies,NCAT,MEAC
+N.C. Central,Eagles,NCCU,MEAC
+Savannah State,Tigers,SAV,MEAC
+S. Carolina St.,Bulldogs,SCST,MEAC
+
+Bradley,Braves,BRAD,Missouri Valley
+Drake,Bulldogs,DRKE,Missouri Valley
+Evansville,Aces,EVAN,Missouri Valley
+Illinois State,Redbirds,ILST,Missouri Valley
+Indiana State,Sycamores,INST,Missouri Valley
+Loyola Chicago,Ramblers,L-IL,Missouri Valley
+Missouri State,Bears,MOSU,Missouri Valley
+UNI,Panthers,UNI,Missouri Valley
+Southern Ill.,Salukis,SIU,Missouri Valley
+Wichita State,Shockers,WICH,Missouri Valley
+
+Air Force,Falcons,AFA,Mountain West
+Boise State,Broncos,BSU,Mountain West
+Colorado State,Rams,CSU,Mountain West
+Fresno State,Bulldogs,FRES,Mountain West
+Nevada,Wolf Pack,NEV,Mountain West
+New Mexico,Lobos,UNM,Mountain West
+San Diego State,Aztecs,SDSU,Mountain West
+San Jose State,Spartans,SJSU,Mountain West
+UNLV,Rebels,UNLV,Mountain West
+Utah State,Aggies,USU,Mountain West
+Wyoming,Cowboys,WYO,Mountain West
+
+Bryant,Bulldogs,BRY,Northeast
+Cent. Conn. St.,Blue Devils,CCSU,Northeast
+Fairleigh D'son,Knights,FDU,Northeast
+LIU Brooklyn,Blackbirds,LIU,Northeast
+Mt. St. Mary's,Hawks,MSM,Northeast
+Robert Morris,Colonials,RMU,Northeast
+Sacred Heart,Pioneers,SHU,Northeast
+St. Francis (B'klyn),Terriers,SFNY,Northeast
+St. Francis (Pa.),Red Flash,SFPA,Northeast
+Wagner,Seahawks,WAG,Northeast
+
+Austin Peay,Governors,PEAY,Ohio Valley
+Belmont,Bruins,BEL,Ohio Valley
+Eastern Illinois,Panthers,EIU,Ohio Valley
+Eastern Kentucky,Colonels,EKY,Ohio Valley
+Jacksonville St.,Gamecocks,JVST,Ohio Valley
+Morehead State,Eagles,MORE,Ohio Valley
+Murray State,Racers,MURR,Ohio Valley
+SIUE,Cougars,SIUE,Ohio Valley
+Southeast Mo. St.,Redhawks,SEMO,Ohio Valley
+Tennessee State,Tigers,TNST,Ohio Valley
+Tennessee Tech,Golden Eagles,TNTC,Ohio Valley
+Tennessee-Martin,Skyhawks,UTM,Ohio Valley
+
+Arizona,Wildcats,ARIZ,Pac-12
+Arizona State,Sun Devils,ASU,Pac-12
+California,Golden Bears,CAL,Pac-12
+Colorado,Buffaloes,COLO,Pac-12
+Oregon,Ducks,ORE,Pac-12
+Oregon State,Beavers,ORST,Pac-12
+Stanford,Cardinal,STAN,Pac-12
+UCLA,Bruins,UCLA,Pac-12
+USC,Trojans,USC,Pac-12
+Utah,Utes,UTAH,Pac-12
+Washington,Huskies,WASH,Pac-12
+Washington St.,Cougars,WSU,Pac-12
+
+American,Eagles,AMER,Patriot League
+Army West Point,Black Knights,ARMY,Patriot League
+Boston U.,Terriers,BU,Patriot League
+Bucknell,Bison,BUCK,Patriot League
+Colgate,Raiders,COLG,Patriot League
+Holy Cross,Crusaders,HC,Patriot League
+Lafayette,Leopards,LAF,Patriot League
+Lehigh,Mountain Hawks,LEH,Patriot League
+Loyola (Md.),Greyhounds,L-MD,Patriot League
+Navy,Midshipmen,NAVY,Patriot League
+
+Alabama,Crimson Tide,ALA,SEC
+Arkansas,Razorbacks,ARK,SEC
+Auburn,Tigers,AUB,SEC
+Florida,Gators,FLA,SEC
+Georgia,Bulldogs,UGA,SEC
+Kentucky,Wildcats,UK,SEC
+LSU,Tigers,LSU,SEC
+Mississippi St.,Bulldogs,MSST,SEC
+Missouri,Tigers,MIZZ,SEC
+Mississippi,Rebels,MISS,SEC
+South Carolina,Gamecocks,SCAR,SEC
+Tennessee,Volunteers,TENN,SEC
+Texas A&M,Aggies,TA&M,SEC
+Vanderbilt,Commodores,VAN,SEC
+
+Chattanooga,Mocs,CHAT,Southern
+East Tenn. St.,Buccaneers,ETSU,Southern
+Furman,Paladins,FUR,Southern
+Mercer,Bears,MER,Southern
+Samford,Bulldogs,SAM,Southern
+Citadel,Bulldogs,CIT,Southern
+UNC-Greensboro,Spartans,UNCG,Southern
+VMI,Keydets,VMI,Southern
+Western Caro.,Catamounts,WCU,Southern
+Wofford,Terriers,WOF,Southern
+
+Abilene Christian,Wildcats,ACU,Southland
+Central Ark.,Bears,CARK,Southland
+Houston Baptist,Huskies,HB,Southland
+Incarnate Word,Cardinals,IWU,Southland
+Lamar,Cardinals,LAM,Southland
+McNeese State,Cowboys,MCNS,Southland
+New Orleans,Privateers,NOU,Southland
+Nicholls State,Colonels,NICH,Southland
+N'western St.,Demons,NWST,Southland
+Sam Houston St.,Bearkats,SHSU,Southland
+Southeastern La.,Lions,SELA,Southland
+Steph. F. Austin,Lumberjacks,SFA,Southland
+Texas A&M-C.C.,Islanders,AMCC,Southland
+
+Alabama A&M,Bulldogs,AAMU,SWAC
+Alabama State,Hornets,ALST,SWAC
+Alcorn State,Braves,ALCN,SWAC
+Ark.-Pine Bluff,Golden Lions,ARPB,SWAC
+Grambling,Tigers,GRAM,SWAC
+Jackson State,Tigers,JKST,SWAC
+Miss. Valley St.,Delta Devils,MVSU,SWAC
+Prairie View A&M,Panthers,PV,SWAC
+Southern Univ.,Jaguars,SOU,SWAC
+Texas Southern,Tigers,TXSO,SWAC
+
+Denver,Pioneers,DEN,Summit League
+IPFW,Mastodons,IPFW,Summit League
+IUPUI,Jaguars,IUPU,Summit League
+North Dakota St.,Bison,NDSU,Summit League
+Omaha,Mavericks,NOM,Summit League
+Oral Roberts,Golden Eagles,ORU,Summit League
+South Dakota,Coyotes,SDAK,Summit League
+South Dakota St.,Jackrabbits,SDST,Summit League
+Western Illinois,Leathernecks,WIU,Summit League
+
+Appalachian St.,Mountaineers,APP,Sun Belt
+Arkansas State,Red Wolves,ARST,Sun Belt
+Coastal Caro.,Chanticleers,CCAR,Sun Belt
+Little Rock,Trojans,UALR,Sun Belt
+Ga. Southern,Eagles,GASO,Sun Belt
+Georgia State,Panthers,GAST,Sun Belt
+La.-Lafayette,Ragin' Cajuns,ULL,Sun Belt
+La.-Monroe,Warhawks,ULM,Sun Belt
+South Alabama,Jaguars,USA,Sun Belt
+Texas State,Bobcats,TXST,Sun Belt
+Troy,Trojans,TROY,Sun Belt
+Texas-Arlington,Mavericks,UTA,Sun Belt
+
+BYU,Cougars,BYU,West Coast
+Gonzaga,Bulldogs,GONZ,West Coast
+Loyola Marym't,Lions,LMU,West Coast
+Pacific,Tigers,PAC,West Coast
+Pepperdine,Waves,PEPP,West Coast
+Portland,Waves,PORT,West Coast
+St. Mary's (Cal.),Gaels,SMC,West Coast
+San Diego,Toreros,USD,West Coast
+San Francisco,Dons,SF,West Coast
+Santa Clara,Broncos,SCU,West Coast
+
+Chicago State,Cougars,CHS,WAC
+CSU Bakersfield,Roadrunners,CSB,WAC
+Grand Canyon,Antelopes,GCU,WAC
+New Mexico St.,Aggies,NMSU,WAC
+Seattle,Redhawks,SEA,WAC
+UMKC,Kangaroos,UMKC,WAC
+UTRGV,Vaqueros,UTPA,WAC
+Utah Valley,Wolverines,UVU,WAC
+
+ex,,ex,div 2

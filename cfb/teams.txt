@@ -1,0 +1,148 @@
+Cincinnati,Bearcats,CIN,American Athletic,East
+Connecticut,Huskies,CONN,American Athletic,East
+East Carolina,Pirates,ECU,American Athletic,East
+South Florida,Bulls,USF,American Athletic,East
+Temple,Owls,TEM,American Athletic,East
+UCF,Knights,UCF,American Athletic,East
+
+Houston,Cougars,HOU,American Athletic,West
+Memphis,Tigers,MEM,American Athletic,West
+Navy,Midshipmen,NAVY,American Athletic,West
+SMU,Mustangs,SMU,American Athletic,West
+Tulane,Green Wave,TULN,American Athletic,West
+Tulsa,Golden Hurricane,TLSA,American Athletic,West
+
+Boston College,Eagles,BC,Atlantic Coast,Atlantic
+Clemson,Tigers,CLEM,Atlantic Coast,Atlantic
+Florida State,Seminoles,FSU,Atlantic Coast,Atlantic
+Louisville,Cardinals,LOU,Atlantic Coast,Atlantic
+NC State,Wolfpack,NCST,Atlantic Coast,Atlantic
+Syracuse,Orange,SYR,Atlantic Coast,Atlantic
+Wake Forest,Demon Deacons,WAKE,Atlantic Coast,Atlantic
+
+Duke,Blue Devils,DUKE,Atlantic Coast,Coastal
+Georgia Tech,Yellow Jackets,GT,Atlantic Coast,Coastal
+Miami (Fla.),Hurricanes,MIA,Atlantic Coast,Coastal
+North Carolina,Tar Heels,UNC,Atlantic Coast,Coastal
+Pittsburgh,Panthers,PITT,Atlantic Coast,Coastal
+Virginia,Cavaliers,UVA,Atlantic Coast,Coastal
+Virginia Tech,Hokies,VT,Atlantic Coast,Coastal
+
+Baylor,Bears,BAY,Big 12
+Iowa State,Cyclones,ISU,Big 12
+Kansas,Jayhawks,KU,Big 12
+Kansas State,Wildcats,KSU,Big 12
+Oklahoma,Sooners,OKLA,Big 12
+Oklahoma State,Cowboys,OKST,Big 12
+TCU,Horned Frogs,TCU,Big 12
+Texas,Longhorns,TEX,Big 12
+Texas Tech,Red Raiders,TTU,Big 12
+West Virginia,Mountaineers,WVU,Big 12
+
+Indiana,Hoosiers,IND,Big Ten,East
+Maryland,Terrapins,MD,Big Ten,East
+Michigan State,Spartans,MSU,Big Ten,East
+Michigan,Wolverines,MICH,Big Ten,East
+Ohio State,Buckeyes,OSU,Big Ten,East
+Penn State,Nittany Lions,PSU,Big Ten,East
+Rutgers,Scarlet Knights,RUTG,Big Ten,East
+
+Illinois,Fighting Illini,ILL,Big Ten,West
+Iowa,Hawkeyes,IOWA,Big Ten,West
+Minnesota,Golden Gophers,MINN,Big Ten,West
+Nebraska,Cornhuskers,NEB,Big Ten,West
+Northwestern,Wildcats,NW,Big Ten,West
+Purdue,Boilermakers,PUR,Big Ten,West
+Wisconsin,Badgers,WIS,Big Ten,West
+
+Charlotte,49ers,CHAR,Conference USA,East
+Florida Atlantic,Owls,FAU,Conference USA,East
+FIU,Golden Panthers,FIU,Conference USA,East
+Marshall,Thundering Herd,MRSH,Conference USA,East
+Middle Tenn.,Blue Raiders,MTU,Conference USA,East
+Old Dominion,Monarchs,ODU,Conference USA,East
+Western Ky.,Hilltoppers,WKU,Conference USA,East
+
+Louisiana Tech,Bulldogs,LT,Conference USA,West
+North Texas,Mean Green,UNT,Conference USA,West
+Rice,Owls,RICE,Conference USA,West
+Southern Miss,Golden Eagles,USM,Conference USA,West
+UTSA,Roadrunners,UTSA,Conference USA,West
+UTEP,Miners,UTEP,Conference USA,West
+
+Army West Point,Black Knights,ARMY,Independent
+BYU,Cougars,BYU,Independent
+Coastal Caro.,Chanticleers,CCAR,Independent
+Massachusetts,Minutemen,MASS,Independent
+Notre Dame,Fighting Irish,ND,Independent
+ex,ex,ex
+
+Akron,Zips,AKR,Mid-American,East
+Bowling Green,Falcons,BGSU,Mid-American,East
+Buffalo,Bulls,BUFF,Mid-American,East
+Kent State,Golden Flashes,KENT,Mid-American,East
+Miami (Ohio),RedHawks,M-OH,Mid-American,East
+Ohio,Bobcats,OHIO,Mid-American,East
+
+Ball State,Cardinals,BALL,Mid-American,West
+Cent. Michigan,Chippewas,CMU,Mid-American,West
+Eastern Mich.,Eagles,EMU,Mid-American,West
+Northern Ill.,Huskies,NIU,Mid-American,West
+Toledo,Rockets,TOL,Mid-American,West
+Western Mich.,Broncos,WMU,Mid-American,West
+
+Air Force,Falcons,AFA,Mountain West,Mountain
+Boise State,Broncos,BSU,Mountain West,Mountain
+Colorado State,Rams,CSU,Mountain West,Mountain
+New Mexico,Lobos,UNM,Mountain West,Mountain
+Utah State,Aggies,USU,Mountain West,Mountain
+Wyoming,Cowboys,WYO,Mountain West,Mountain
+
+Fresno State,Bulldogs,FRES,Mountain West,West
+Hawaii,Warriors,HAW,Mountain West,West
+Nevada,Wolf Pack,NEV,Mountain West,West
+San Diego State,Aztecs,SDSU,Mountain West,West
+San Jose State,Spartans,SJSU,Mountain West,West
+UNLV,Rebels,UNLV,Mountain West,West
+
+California,Golden Bears,CAL,Pacific-12,North
+Oregon,Ducks,ORE,Pacific-12,North
+Oregon State,Beavers,ORST,Pacific-12,North
+Stanford,Cardinal,STAN,Pacific-12,North
+Washington,Huskies,WASH,Pacific-12,North
+Washington St.,Cougars,WSU,Pacific-12,North
+
+Arizona State,Sun Devils,ASU,Pacific-12,South
+Arizona,Wildcats,ARIZ,Pacific-12,South
+Colorado,Buffaloes,COLO,Pacific-12,South
+UCLA,Bruins,UCLA,Pacific-12,South
+USC,Trojans,USC,Pacific-12,South
+Utah,Utes,UTAH,Pacific-12,South
+
+Florida,Gators,FLA,SEC,East
+Georgia,Bulldogs,UGA,SEC,East
+Kentucky,Wildcats,UK,SEC,East
+Missouri,Tigers,MIZZ,SEC,East
+South Carolina,Gamecocks,SCAR,SEC,East
+Tennessee,Volunteers,TENN,SEC,East
+Vanderbilt,Commodores,VAN,SEC,East
+
+Alabama,Crimson Tide,ALA,SEC,West
+Arkansas,Razorbacks,ARK,SEC,West
+Auburn,Tigers,AUB,SEC,West
+LSU,Tigers,LSU,SEC,West
+Mississippi St.,Bulldogs,MSST,SEC,West
+Mississippi,Rebels,MISS,SEC,West
+Texas A&M,Aggies,TA&M,SEC,West
+
+Appalachian St.,Mountaineers,APP,Sun Belt
+Arkansas State,Red Wolves,ARST,Sun Belt
+Ga. Southern,Eagles,GASO,Sun Belt
+Georgia State,Panthers,GAST,Sun Belt
+Idaho,Vandals,IDHO,Sun Belt
+La.-Lafayette,Ragin' Cajuns,ULL,Sun Belt
+La.-Monroe,Warhawks,ULM,Sun Belt
+New Mexico St.,Aggies,NMSU,Sun Belt
+South Alabama,Jaguars,USA,Sun Belt
+Texas State,Bobcats,TXST,Sun Belt
+Troy,Trojans,TROY,Sun Belt
